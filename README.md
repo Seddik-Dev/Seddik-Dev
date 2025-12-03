@@ -47,16 +47,6 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
----
-
-### 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seddikzaker&show_icons=true&theme=radical" alt="Seddik's GitHub stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seddikzaker&theme=radical" alt="GitHub Streak" height="180"/>
-</p>
-
----
 
 ### 🌐 Connect with Me  
 
