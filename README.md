@@ -1,25 +1,16 @@
-<!-- Animated Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Seddik+Zaker+👋;Full+Stack+Web+Developer+🚀;Building+Modern+SaaS+Platforms;Lover+of+Clean+UX+%2B+Solid+Architecture" />
-</p>
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Seddik Zaker</h1>
+<h3 align="center">💻 Full Stack Web Developer | Building SaaS Apps & Scalable Web Solutions</h3>
 
 ---
 
-<h3 align="center">🚀 Full Stack Web Developer | Building Modern SaaS & Scalable Web Solutions</h3>
+### 👨‍💻 About Me  
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=seddikzaker&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
-
-## 👨‍💻 About Me
-
-- 🔭 I’m currently building **SaaS applications** (restaurant management, event reservations…)  
-- 🌱 Learning **DevOps**, especially Docker & cloud deployment  
-- 🤝 Open to collaboration on **innovative, fast and user-friendly web apps**  
-- 💬 Ask me about **SaaS architectures, backend logic, full-stack workflows**  
-- ⚡ Fun fact: turning ideas into interactive products is my favorite challenge  
+🔭 I’m currently working on **SaaS projects** such as restaurant management and event reservation applications.  
+🌱 I’m currently learning **DevOps practices**, focusing on **Docker** and **cloud deployment**.  
+👯 I’m looking to collaborate on **innovative web applications** that combine great UX and robust backend systems.  
+💬 Ask me about **web development, SaaS architectures, or full-stack workflows**.  
+⚡ Fun fact: I love turning creative ideas into real, interactive products.  
 
 ---
 
@@ -61,32 +52,8 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=seddikzaker&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seddikzaker&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=seddikzaker&theme=tokyonight&margin-w=10&margin-h=10&column=7" />
-</p>
-
----
-
-## 📈 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=seddikzaker&theme=tokyo-night" />
-</p>
-
----
-
-## 🌐 Connect with Me
+### 🌐 Connect with Me  
 
 <p align="center">
   <a href="mailto:seddikzaker11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -95,4 +62,4 @@
 
 ---
 
-⭐️ **From [Seddik Zaker](https://github.com/seddikzaker)**
+⭐️ From [Seddik Zaker](https://github.com/seddikzaker)
